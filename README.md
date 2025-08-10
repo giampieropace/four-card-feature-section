@@ -29,8 +29,8 @@ Your users should:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://github.com/giampieropace/product-preview-card-component)
-- Live Site URL: [CloudFlare Pages](https://product-preview-card-component-b8c.pages.dev/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-challenge-using-bootstrap-studio-VkYtWKq8Lv)
+- Live Site URL: [CloudFlare Pages](https://four-card-feature-section-5n2.pages.dev/)
 
 ## My process
 
