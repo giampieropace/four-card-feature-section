@@ -1,0 +1,39 @@
+:root, [data-bs-theme=light] {
+  --bs-body-color: hsl(234, 12%, 34%);
+  --bs-body-color-rgb: 76.29599999999999,78.37679999999999,97.10400000000003;
+  --bs-secondary-color: hsl(212, 6%, 44%);
+  --bs-secondary-color-rgb: 105.46799999999999,111.7512,118.93200000000002;
+  --bs-body-bg: #fafafa;
+  --bs-body-bg-rgb: 250,250,250;
+  --bs-tertiary-color: rgba(76,78,97,0.5);
+  --bs-tertiary-color-rgb: 76,78,97,0.5;
+  --bs-body-font-family: Poppins, sans-serif;
+  --bs-body-font-size: 0.9375rem;
+}
+
+.m-0 {
+  margin: 0!important;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem!important;
+}
+
+@media (min-width:768px) {
+  .mb-md-0 {
+    margin-bottom: 0!important;
+  }
+}
+
+@media (min-width:768px) {
+  .mb-md-2 {
+    margin-bottom: .5rem!important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .mb-xl-6 {
+    margin-bottom: 4.5rem !important;
+  }
+}
+
